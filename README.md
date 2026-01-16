@@ -44,7 +44,8 @@ El informe final se divide en tres secciones estratégicas:
 2.	Análisis Temporal y Operativo: Comparativa de % de defectos vs. producción y desglose de fallas por turno.
 3.	Módulo de Diagnóstico: Matriz de rendimiento por máquina y esquema de descomposición para la identificación de la causa raíz.
 
-# Conclusiones
+##Conclusiones
+
 Tras el análisis exhaustivo, se obtuvieron las siguientes conclusiones accionables:
 *	Ineficiencia en Mantenimiento: Se detectó que la Máquina 2 recibe una alta inversión de horas (110.38h) pero mantiene una de las tasas de defectos más altas (195), lo que sugiere que el mantenimiento actual es reactivo y no preventivo.
 *	Punto Crítico Detectado: El turno Noche (Night) en la línea de Textiles presenta la mayor vulnerabilidad. El análisis de IA confirmó que la Máquina 8 dispara sus errores cuando el mantenimiento llega a 0 horas.
